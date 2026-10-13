@@ -1,0 +1,84 @@
+body {
+    background-color: white;
+}
+
+#h1 {
+    color: gray
+}
+
+.qudr {
+    background-color: gray;
+    position: fixed;
+    width: 5000px;
+    height: 60px;
+    bottom: 0%;
+    left: 0%;
+}
+
+.vert {
+    background-color: darkgray;
+    position: fixed;
+    width: 50px;
+    height: 1200px;
+    right: 1300px;
+    bottom: 0%;
+}
+
+.oi {
+    background-color: darkgrey;
+    position: fixed;
+    width: 20px;
+    height: 1000px;
+    left: 178px;
+    bottom: 0%;
+
+}
+
+#loginbut {
+    position: fixed;
+    right: 33%;
+    top: 30%;
+    background-color: gray;
+    font-size: 20px;
+    color: white;
+    border-color: black;
+    border-radius: 40px;
+    border-style: solid;
+}
+
+
+#email {
+    position: fixed;
+    width: 500px;
+    height: 50px;
+    left: 33.5%;
+    line-height: normal;
+    font-size: large;
+    border-radius: 40px;
+    border-color:black;
+    background-color:white;
+    border-style: solid;
+}
+
+#senha {
+    position: fixed;
+    width: 500px;
+    height: 50px;
+    left: 33.5%;
+    top: 20%;
+    size: 60px;
+    line-height: normal;
+    font-size: large;
+    border-radius: 40px;
+    border-color:black;
+    background-color: white;
+    border-style: solid;
+}
+
+#pa {
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    bottom: 0%;
+    right: 0.1%;
+}
