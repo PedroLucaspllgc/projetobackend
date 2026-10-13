@@ -27,13 +27,25 @@ body {
 #but {
     z-index: 2;
     width: 100px;
-    height: 40px;
+    height: 30px;
     border-radius: 10px;
     position: fixed;
     text-align: center;
-    top: 0%;
-    left: 0%;
+    top: 5%;
+    right: 10%;
     border-style: solid;
-    background-color: antiquewhite;
-    color: black;
+    background-color: grey;
+    border-color: white;
+    color: rgb(255, 255, 255);
+    line-height: 200%;
+}
+
+#oi {
+    color: white;
+    top: 0%;
+    left: 40%;
+    font-size: 50px;
+    position: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    z-index: 2;
 }
